@@ -8,4 +8,4 @@
 [!IMPORTANT]
 Un clavier AZERTY en vaut deux.
 
-** Anonymous, 1981 **
+*Anonymous, 1981*
