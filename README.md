@@ -5,7 +5,7 @@
 
 ### Adding this neat title
 
-> [!IMPORTANT]
+> :attention: IMPORTANT
 > Un clavier AZERTY en vaut deux.
 
 *Anonymous, 1981*
