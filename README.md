@@ -5,7 +5,7 @@
 
 ### Adding this neat title
 
-> :attention: IMPORTANT
+> :bulb: Did you know?
 > Un clavier AZERTY en vaut deux.
 
 *Anonymous, 1981*
